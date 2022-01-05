@@ -1,0 +1,21 @@
+body {
+    background-color:burlywood;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:brown;
+}
+
+body h1 {
+    color:brown;
+    font-size:30px;
+}
+
+a {
+    text-decoration:none;
+    color:brown;
+    font-size:20px;
+}
+
+hr {
+    color:brown;
+}
