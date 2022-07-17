@@ -1,0 +1,81 @@
+[33mcommit 21b4afb48d6b715e0cccdf31659c9b07bb724806[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Wed Jan 5 13:51:46 2022 -0500
+
+    added css
+
+[33mcommit 40c4ea387082e8baf739c7e148bbc572cd5a745a[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 14:41:40 2022 -0500
+
+    Revert "Revert "Added full name""
+    
+    This reverts commit bd8570c44224338b299986344db7a7ab8b073706.
+
+[33mcommit 1ba6806aa0ef81c06afabc52b99008aa92c5b4ff[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 14:37:47 2022 -0500
+
+    Revert "Revert "Revert "Added full name"""
+    
+    This reverts commit 295206dfcd462ec1e3183129c430234ec9334c62.
+
+[33mcommit 295206dfcd462ec1e3183129c430234ec9334c62[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 14:35:36 2022 -0500
+
+    Revert "Revert "Added full name""
+    
+    This reverts commit bd8570c44224338b299986344db7a7ab8b073706.
+
+[33mcommit bd8570c44224338b299986344db7a7ab8b073706[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 14:31:19 2022 -0500
+
+    Revert "Added full name"
+    
+    This reverts commit b11e5c60a9abf016146463a2c8a61cca6ccc1e1f.
+
+[33mcommit b11e5c60a9abf016146463a2c8a61cca6ccc1e1f[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 14:24:21 2022 -0500
+
+    Added full name
+
+[33mcommit ca885cdc2adcb2e307753bc93aed1f305a69f7a1[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 13:50:47 2022 -0500
+
+    Revert "Added my first name"
+    
+    This reverts commit 3a52b892829b9ccc6fc6d13e89760eac0c49c3ae.
+
+[33mcommit 3a52b892829b9ccc6fc6d13e89760eac0c49c3ae[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Sun Jan 2 13:48:54 2022 -0500
+
+    Added my first name
+
+[33mcommit e666e2cb13bffc0ccaeb1921d4c5eedf2efac2e5[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Fri Dec 31 11:06:20 2021 -0500
+
+    Commiting all three files and Read me file to the odin-recipes repository
+
+[33mcommit f40ac8dfa92eb3a8e01fd8a6bbbd7e6f755885d5[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Fri Dec 31 11:03:23 2021 -0500
+
+    Adding all three files to the odin-recipes repository
+
+[33mcommit 2f487fd3c0c286218862fde64ddb285701fac2c1[m
+Author: Kahlei Smith <klsmith430@gmail.com>
+Date:   Fri Dec 31 11:00:56 2021 -0500
+
+    Adding all 3 recipes to odin-recipes repository
+
+[33mcommit ce7808f5c23d31f71c065e794b25a6d296e8129e[m
+Author: leiontith <78818115+mrkoderr@users.noreply.github.com>
+Date:   Mon Oct 18 18:40:18 2021 -0400
+
+    Initial commit
